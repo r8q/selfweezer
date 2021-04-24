@@ -20,7 +20,7 @@
 
 <br />
 
-A CYBERSECURITY <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> WEB DEVELOPMENT <img  src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="35px">Enthusiast.
+**A CYBERSECURITY** <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> **WEB DEVELOPMENT** <img  src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="35px">**Enthusiast.**
  
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
