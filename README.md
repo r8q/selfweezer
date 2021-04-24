@@ -46,10 +46,10 @@ A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/g
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfweezer&layout=compact)](https://github.com/selfweezer/github-readme-stats)
 
 
-
-
-  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="500" align="right">
 <h1>BYE BYE 🤔<h1/>
+
+  <img src="https://media.giphy.com/media/1RfTpdkq2Gc36/giphy.gif" width="250" align="left">
+
 
 
 
