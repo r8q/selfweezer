@@ -13,10 +13,6 @@
 </a>
 
 <br />
-
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/selfweezer/count.svg" />
-
 <br />
 
  <samp>
@@ -73,8 +69,9 @@
 
 <h2><code>🤔BYE BYE </code><h2/>
 
-  <img src="https://media.giphy.com/media/1RfTpdkq2Gc36/giphy.gif" width="250" align="left">
-
+  <img src="https://media.giphy.com/media/1RfTpdkq2Gc36/giphy.gif" width="350" align="center">
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/selfweezer/count.svg" / align="center">
 
 
 
