@@ -14,7 +14,12 @@
 </a>
 
 <br />
+
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/selfweezer/count.svg" />
+
 <br />
+
 
 A CYBERSECURITY <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> WEB DEVELOPMENT <img  src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="35px">Enthusiast.
  
