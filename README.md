@@ -70,8 +70,9 @@
 <h2><code>🤔BYE BYE </code><h2/>
 
   <img align="center" src="https://media.giphy.com/media/1RfTpdkq2Gc36/giphy.gif" width="380">
+   ### Profile Views :
   <br>
- ### Profile Views :  
+  
   <img  src="https://profile-counter.glitch.me/selfweezer/count.svg">
 
 
