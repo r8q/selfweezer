@@ -1,4 +1,4 @@
-<h3 title="hehehe"><code> Hey 👋, I'm Burak!</code> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="35px"></h3>
+<h3 title="hehehe"><code> 𝐇𝐞𝐥𝐥𝐨 👋, I'm Burak!</code> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="35px"></h3>
 
 <a href="https://www.linkedin.com/in/gustavfidan">
   <img align="left" alt="Burak's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,7 +21,7 @@
 
  <samp>
   
-**A CYBERSECURITY** <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> **WEB DEVELOPMENT** <img  src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="35px">**Enthusiast.**
+**A CYBERSECURITY** <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> **WEB DEVELOPMENT** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">**Enthusiast.**
   </samp>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
