@@ -12,3 +12,17 @@
 
 <br />
 <br />
+
+A **CYBER SECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> WEB DEVELOPMENT <img src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="35px">** ***Enthusiast***.
+ 
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+
+ <h3>About ME!<img src="https://media.giphy.com/media/mFr2bCGZkwclfVDKv6/giphy.gif" width="150"/></h3>
+
+
+- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
+- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
+- 🤔 My interest lies in front end web development.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
