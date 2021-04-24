@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Burak! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px"></h3>
+<h3 title="hehehe"><code> Hey 👋, I'm Burak!</code> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="35px"></h3>
 
 
 <a href="https://www.linkedin.com/in/gustavfidan">
