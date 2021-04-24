@@ -13,7 +13,7 @@
 <br />
 <br />
 
-A **CYBER SECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> WEB DEVELOPMENT <img src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="35px">** ***Enthusiast***.
+A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> WEB DEVELOPMENT <img src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="35px">** ***Enthusiast***.
  
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
@@ -21,8 +21,12 @@ A **CYBER SECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/
  <h3>About ME!<img src="https://media.giphy.com/media/mFr2bCGZkwclfVDKv6/giphy.gif" width="150"/></h3>
 
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
+- 👨🏽‍💻 I'm currently a senior at a High School in Ankara, Turkey
+- 🌱 I' currently researching cybersecurity with a great interest in cybersecurity practices. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 📫 Email me at [gustavfidan@bugpunisher.com](mailto:gustavfidan@bugpunisher.com).
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/selfweezer) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/selfweezer) 
+[![PYTHON](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/selfweezer)](https://github.com/selfweezer) 
