@@ -37,7 +37,7 @@
 
 <h2>
   <code>
-    Preferred Languages 
+    🤖 Preferred Languages 
   </code>
 <h2/>
 
@@ -70,7 +70,7 @@
 
 
 
-<h1>BYE BYE 🤔<h1/>
+<h2><code>🤔BYE BYE </code><h2/>
 
   <img src="https://media.giphy.com/media/1RfTpdkq2Gc36/giphy.gif" width="250" align="left">
 
