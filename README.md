@@ -9,10 +9,8 @@
 <a href="https://t.me/glovelace/">
   <img align="left" alt="Burak Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-  <img src="https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff">
 <br />
 <br />
-
 A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> WEB DEVELOPMENT <img src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="35px">** ***Enthusiast***.
  
 
@@ -34,9 +32,9 @@ A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/g
   </code>
 <h2/>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/php.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/csharp.png" height=40 hspace=10>
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
