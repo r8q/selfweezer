@@ -45,7 +45,7 @@ A CYBERSECURITY <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
  	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  
 <br>
 <h2>  <code>
   🚀 I'm use these tools:
@@ -53,8 +53,8 @@ A CYBERSECURITY <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy
   <h2/>
   
 
-<img alt="Windows 10" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<img alt="Kali Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 <br>
 <h2>  <code>
