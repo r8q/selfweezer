@@ -37,7 +37,7 @@
 
 <h2>
   <code>
-    Preferred Languages
+    Preferred Languages 
   </code>
 <h2/>
 
@@ -60,7 +60,8 @@
 <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
   <details>
-  <summary>🛠 — Skills </summary>
+  <summary> <h2><code>🛠 — Skills </code></h2></summary>
+  <br> 
   
 ![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfweezer&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfweezer&layout=compact&theme=chartreuse-dark)](https://github.com/selfweezer/)
 
