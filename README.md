@@ -28,7 +28,11 @@ A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/g
 - 📫 Email me at [gustavfidan@bugpunisher.com](mailto:gustavfidan@bugpunisher.com).
 
 
-<h2>Languages and Tools:<h2/>
+<h2>
+  <code>
+    Preferred Languages
+  </code>
+<h2/>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -39,7 +43,10 @@ A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/g
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <br>
-<h2>🛠 — Skills:<h2/>
+<h2>  <code>
+  🛠 — Skills
+    </code>
+  <h2/>
   
 ![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfweezer&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfweezer&layout=compact&theme=chartreuse-dark)](https://github.com/selfweezer/)
 
