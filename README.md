@@ -44,11 +44,17 @@ A CYBERSECURITY <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/php.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/csharp.png" height=40 hspace=10>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <br>
+<h2>  <code>
+  🚀 I'm use these tools:
+    </code>
+  <h2/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
 <br>
 <h2>  <code>
   🛠 — Skills
