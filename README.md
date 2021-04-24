@@ -60,12 +60,16 @@
 <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 <br>
-<h2>  <code>
-  🛠 — Skills
+
+  <details>
+  <summary> <h2> 🛠 — Skills
     </code>
-  <h2/>
+  <h2/></summary>
   
 ![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfweezer&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfweezer&layout=compact&theme=chartreuse-dark)](https://github.com/selfweezer/)
+
+</details>
+
 
 
 
