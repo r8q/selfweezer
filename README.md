@@ -43,7 +43,8 @@ A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/g
   
 ![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfweezer&theme=chartreuse-dark&show_icons=true)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfweezer&layout=compact)](https://github.com/selfweezer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfweezer&layout=compact&theme=chartreuse-dark)](https://github.com/selfweezer/)
+
 
 
 <h1>BYE BYE 🤔<h1/>
