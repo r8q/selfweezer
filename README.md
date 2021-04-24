@@ -39,8 +39,17 @@ A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/g
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <br>
-<h2>Stats: ⭐<h2/>
+<h2>Stats: ⭐⭐⭐⭐⭐<h2/>
   
 ![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfweezer&theme=chartreuse-dark&show_icons=true)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfweezer&layout=compact)](https://github.com/selfweezer/github-readme-stats)
+
+
+
+
+  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="480">
+<h1>BYE BYE 🤔<h1/>
+
+
+
