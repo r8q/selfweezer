@@ -27,6 +27,10 @@ A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/g
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [gustavfidan@bugpunisher.com](mailto:gustavfidan@bugpunisher.com).
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/selfweezer) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/selfweezer) 
-[![PYTHON](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/selfweezer)](https://github.com/selfweezer) 
+
+<h2>Languages and Tools:<h2/>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
