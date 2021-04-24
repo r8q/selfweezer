@@ -48,7 +48,7 @@ A **CYBERSECURITY   <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/g
 
 
 
-  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="480">
+  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="500" align="right">
 <h1>BYE BYE 🤔<h1/>
 
 
