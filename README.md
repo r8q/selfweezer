@@ -47,7 +47,7 @@
 <br>
 <h2>  <code>
   🚀 I'm use these tools: 
-  <img align="left" alt="Brain" width="100" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+
     </code>
   <h2/>
   
@@ -58,7 +58,7 @@
 <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 <h2>  <code>
-    🛠 — Skills 
+       <img align="left" alt="Brain" width="80" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">🛠 — Skills 
     </code>
   <h2/>
   
