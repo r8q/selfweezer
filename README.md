@@ -17,7 +17,7 @@
 
  <samp>
   
-**A CYBERSECURITY** <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> **WEB DEVELOPMENT** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">**Enthusiast.**
+**A CYBERSECURITY** <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="35px"> **WEB DEVELOPMENT** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">**Enthusiast.  **  
   </samp>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
@@ -28,7 +28,7 @@
 - 👨🏽‍💻 I'm currently a senior at a High School in Ankara, Turkey
 - 🌱 I' currently researching cybersecurity with a great interest in cybersecurity practices. 
 - 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
+- 🎆 Ask me about anything, I love to answer!
 - 📫 Email me at [gustavfidan@bugpunisher.com](mailto:gustavfidan@bugpunisher.com).
 
 
