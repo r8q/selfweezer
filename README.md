@@ -46,7 +46,8 @@
   
 <br>
 <h2>  <code>
-  🚀 I'm use these tools:
+  🚀 I'm use these tools: 
+  <img align="left" alt="Brain" width="100" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
     </code>
   <h2/>
   
