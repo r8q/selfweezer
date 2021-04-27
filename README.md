@@ -61,7 +61,7 @@
     </code>
   <h2/>
   
-![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfweezer&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfweezer&layout=compact&theme=chartreuse-dark)](https://github.com/selfweezer/)
+![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=r8q&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r8q&layout=compact&theme=chartreuse-dark)](https://github.com/r8q/)
 
 
 
@@ -73,7 +73,7 @@
    ### Profile Views :
   <br>
   
-  <img  src="https://profile-counter.glitch.me/selfweezer/count.svg">
+  <img  src="https://profile-counter.glitch.me/r8q/count.svg">
 
 
 
